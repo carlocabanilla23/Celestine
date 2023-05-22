@@ -1,0 +1,12 @@
+{
+    "type" : "statement_list",
+    "statements" : [ 
+        {
+            "type" : "assignment_statement"
+           
+        },{
+            "type": "print_statement"
+        }
+            
+    ]
+}

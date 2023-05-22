@@ -1,0 +1,8 @@
+{
+    "Lua.diagnostics.globals": [
+        "parse_term",
+        "parse_factor",
+        "parse_expression",
+        "tokens"
+    ]
+}
